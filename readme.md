@@ -26,7 +26,6 @@ ___
 ❗️ Replace `<your_account>` with your Github username and copy the links to `Pull Request` description:
 
 - [JOAO ANDREASSA LINK](https://joaoandreassa.github.io/layout_search-bar-airbnb/)
-- 
 - [JOAO ANDREASSA TEST LINK](https://joaoandreassa.github.io/layout_search-bar-airbnb/report/html_report/)
 
 ❗️ Copy this `Checklist` to the `Pull Request` description after links, and put `- [x]` before each point after you checked it.
